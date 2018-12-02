@@ -1,4 +1,4 @@
 ﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
   Chat_ServerDlg.cpp
-c:\users\高杰\source\repos\socket\chat_server\chat_server\chat_serverdlg.cpp(262): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  Chat_Server.vcxproj -> C:\Users\高杰\source\repos\SOCKET\Chat_Server\x64\Debug\Chat_Server.exe
+c:\users\高杰\desktop\网络实验\聊天程序\chat_server\chat_server\chat_serverdlg.cpp(268): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Chat_Server.vcxproj -> C:\Users\高杰\Desktop\网络实验\聊天程序\Chat_Server\x64\Debug\Chat_Server.exe

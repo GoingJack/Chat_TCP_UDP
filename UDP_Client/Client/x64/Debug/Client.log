@@ -1,9 +1,12 @@
 ﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
   ClientDlg.cpp
-c:\users\高杰\source\repos\新建文件夹\client\client\clientdlg.cpp(115): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+c:\users\高杰\desktop\网络实验\聊天程序\udp_client\client\clientdlg.cpp(97): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
   c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
-c:\users\高杰\source\repos\新建文件夹\client\client\clientdlg.cpp(112): warning C4101: “ch_ip”: 未引用的局部变量
-c:\users\高杰\source\repos\新建文件夹\client\client\clientdlg.cpp(110): warning C4101: “buffer”: 未引用的局部变量
-c:\users\高杰\source\repos\新建文件夹\client\client\clientdlg.cpp(261): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+c:\users\高杰\desktop\网络实验\聊天程序\udp_client\client\clientdlg.cpp(92): warning C4101: “buffer”: 未引用的局部变量
+c:\users\高杰\desktop\网络实验\聊天程序\udp_client\client\clientdlg.cpp(161): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(2218): note: 参见“gethostbyname”的声明
+c:\users\高杰\desktop\网络实验\聊天程序\udp_client\client\clientdlg.cpp(162): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+c:\users\高杰\desktop\网络实验\聊天程序\udp_client\client\clientdlg.cpp(245): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
   c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
-  Client.vcxproj -> C:\Users\高杰\source\repos\新建文件夹\Client\x64\Debug\Client.exe
+  Client.vcxproj -> C:\Users\高杰\Desktop\网络实验\聊天程序\UDP_Client\x64\Debug\Client.exe
