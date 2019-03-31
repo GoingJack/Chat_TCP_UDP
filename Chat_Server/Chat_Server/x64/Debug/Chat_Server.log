@@ -1,4 +1,10 @@
 ﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
   Chat_ServerDlg.cpp
-c:\users\高杰\desktop\网络实验\聊天程序\chat_server\chat_server\chat_serverdlg.cpp(268): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  Chat_Server.vcxproj -> C:\Users\高杰\Desktop\网络实验\聊天程序\Chat_Server\x64\Debug\Chat_Server.exe
+c:\users\goingjack\desktop\聊天程序\chat_server\chat_server\chat_serverdlg.cpp(102): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\goingjack\desktop\聊天程序\chat_server\chat_server\chat_serverdlg.cpp(165): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\goingjack\desktop\聊天程序\chat_server\chat_server\chat_serverdlg.cpp(374): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\goingjack\desktop\聊天程序\chat_server\chat_server\chat_serverdlg.cpp(368): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  Chat_Server.vcxproj -> C:\Users\GoingJack\Desktop\聊天程序\Chat_Server\x64\Debug\Chat_Server.exe

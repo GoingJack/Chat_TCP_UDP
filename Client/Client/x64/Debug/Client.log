@@ -1,6 +1,16 @@
 ﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
   ClientDlg.cpp
-c:\users\高杰\desktop\网络实验\聊天程序\client\client\clientdlg.cpp(212): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
-c:\users\高杰\desktop\网络实验\聊天程序\client\client\clientdlg.cpp(256): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  Client.vcxproj -> C:\Users\高杰\Desktop\网络实验\聊天程序\Client\x64\Debug\Client.exe
+c:\users\goingjack\desktop\聊天程序\client\client\clientdlg.cpp(37): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+c:\users\goingjack\desktop\聊天程序\client\client\clientdlg.cpp(55): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+c:\users\goingjack\desktop\聊天程序\client\client\clientdlg.cpp(81): warning C4101: “msg”: 未引用的局部变量
+c:\users\goingjack\desktop\聊天程序\client\client\clientdlg.cpp(80): warning C4101: “res”: 未引用的局部变量
+c:\users\goingjack\desktop\聊天程序\client\client\clientdlg.cpp(304): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\goingjack\desktop\聊天程序\client\client\clientdlg.cpp(347): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\goingjack\desktop\聊天程序\client\client\clientdlg.cpp(368): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+c:\users\goingjack\desktop\聊天程序\client\client\clientdlg.cpp(418): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\goingjack\desktop\聊天程序\client\client\clientdlg.cpp(416): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  Client.vcxproj -> C:\Users\GoingJack\Desktop\聊天程序\Client\x64\Debug\Client.exe
